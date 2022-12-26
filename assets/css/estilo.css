@@ -11,6 +11,10 @@ body{
     padding: 10px;
     border: 2px solid #00eeff;
 }
+.navbar-toggler{
+    color: white;
+    border: solid 5px white;
+}
 .contenido__parrafo__p{
     font-size: 30px;
 }
