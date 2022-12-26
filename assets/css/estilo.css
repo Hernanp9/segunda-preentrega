@@ -84,29 +84,29 @@ footer{
 
 
 .container{
-    margin-left: auto;
-    margin-right: auto;
+    border: outset 5px #35C3CA;
+   
 }
 .row{
     display: flex;
     flex-direction: column;
     color: aliceblue; 
-    width: 35%;
 }
 .col{
-    border: solid #35C3CA 3px;
+    border: solid gray 2px;
     text-align: center;
 }
 
 .chofer1{
     width: 80%;
     padding: auto;
-    height: 15vh;
+    height: 20vh;
 }
 
 .chofer{
    width: 70%;
     padding: auto;
+    height: 30vh;
     
    
 }
