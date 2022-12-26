@@ -67,7 +67,7 @@ font-size: 20px;
 
 
 .titulo__principal{
-    font-size: 45px;
+    font-size: 35px;
 }
 
 
@@ -97,4 +97,22 @@ font-size: 20px;
     margin-right: auto;
     text-align: center;
 
+}
+
+
+
+.navbar{
+    border: solid 2px #f1f1f1;
+}
+
+
+.whatsapp{
+   font-size: xx-large;
+}
+
+.instagram{
+    font-size: xx-large;
+}
+.twitter{
+    font-size: xx-large;
 }
