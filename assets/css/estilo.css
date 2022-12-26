@@ -113,6 +113,7 @@ footer{
 
 .navbar{
     border: solid 2px #f1f1f1;
+    border-color: #35C3CA;
 }
 
 .whatsapp{
@@ -155,7 +156,7 @@ footer{
 
     .chofer{
         width: 80%;
-        height: 30vh;
+        height: 28vh;
     }
    
 
