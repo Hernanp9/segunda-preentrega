@@ -6,11 +6,6 @@ body{
     background-color: #3b384d;
 }
 
-.contenedor-cuerpo{
-   
-}
-
-
 .contenido__cuerpo__titulo{
     text-align: center;
     padding: 10px;
@@ -21,27 +16,21 @@ body{
 }
 
 .titulo__principal{
-font-size: 36px;
-width: 100%;
-padding: 12px 20px;
-background-color: #35C3CA;
-color: white;
-text-align: center;
-transition: .5s ease all;text-transform: uppercase;
-letter-spacing: 2px;
+    font-size: 36px;
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #35C3CA;
+    color: white;
+    text-align: center;
+    transition: .5s ease all;text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 .contenedor__parrafo{
     padding: 15px;
-flex-wrap: wrap;
-background-color: #3b384d;
-color: white;
-}
-
-.contenido__parrafo{
-}
-.contenido__parrafo__p{
-
+    flex-wrap: wrap;
+    background-color: #3b384d;
+    color: white;
 }
 
 
@@ -61,21 +50,14 @@ footer{
 
 
 .contenido-servicio p{
-color: aliceblue;
-font-size: 20px;
+    color: aliceblue;
+    font-size: 20px;
 }
 
 
 .titulo__principal{
     font-size: 35px;
 }
-
-
-.conteinter-cuerpo__fletes{
-    
-}
-
-
 
 
 .carousel-inner{
@@ -105,7 +87,6 @@ font-size: 20px;
     border: solid 2px #f1f1f1;
 }
 
-
 .whatsapp{
    font-size: xx-large;
 }
@@ -115,4 +96,15 @@ font-size: 20px;
 }
 .twitter{
     font-size: xx-large;
+}
+
+@media only screen and (min-width: 1280px){
+
+    .carousel-item img {
+        width: 400px;
+        height: 400px;
+        margin: 10px ;
+    }
+
+   
 }
